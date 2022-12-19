@@ -1,0 +1,37 @@
+h1 {
+    font-size: 67px;
+    text-align: center;
+    margin:0px;
+    padding:20px;
+  }
+  a {
+    color:black;
+    text-decoration: none;
+  }
+  body{
+    margin:0;
+    background:
+    url(file:///Users/minsun/programming/HTML/3.BoardGame.js/boardimg/5.jpg);
+}
+
+#click_it {
+   color:aliceblue;
+   padding-left: 30px;
+   padding-right: 70px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   border-width:3px;
+   border-color:black;
+   border-style:solid;
+   margin-left: 800px;
+   margin-right:700px;
+} 
+
+.hidden {
+    display: none;
+}
+
+.active {
+  color:aliceblue;
+}
+

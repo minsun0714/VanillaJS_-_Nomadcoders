@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<title>Web - CSS</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+  <h1><a href="index.html">WEB</a></h1>
+  <div id="grid">
+<ol>
+  <li><a href="1.html" >HTML</a></li>
+  <li><a href="2.html" >CSS</a></li>
+  <li><a href="3.html">Javascript</a></li>
+</ol>
+<div id="article">
+<h2>CSS</h2>
+<p>CSS (Cascading Style Sheets) allows you to create great-looking web pages,
+  but how does it work under the hood? This article explains what CSS is with
+   a simple syntax example and also covers some key terms about the language.
+ </p>
+<p>
+  In the Introduction to HTML module, we covered what HTML is and how it is used
+   to mark up documents. These documents will be readable in a web browser.
+   Headings will look larger than regular text, paragraphs break onto a new line
+  and have space between them. Links are colored and underlined to distinguish
+them from the rest of the text. What you are seeing are the browser's
+      default styles — very basic styles — that the browser applies to HTML to
+      make sure that the page will be basically readable even if no explicit
+       styling is specified by the author of the page.
+</p>
+</div>
+</div>
+</body>
+</html>
